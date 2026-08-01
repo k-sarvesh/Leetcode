@@ -7,6 +7,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/k-sarvesh/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/k-sarvesh/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/k-sarvesh/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/k-sarvesh/Leetcode/tree/master/0486-predict-the-winner) |
 | [0645-set-mismatch](https://github.com/k-sarvesh/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/k-sarvesh/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/k-sarvesh/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/k-sarvesh/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0486-predict-the-winner](https://github.com/k-sarvesh/Leetcode/tree/master/0486-predict-the-winner) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -57,4 +59,16 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/k-sarvesh/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/k-sarvesh/Leetcode/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/k-sarvesh/Leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/k-sarvesh/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
