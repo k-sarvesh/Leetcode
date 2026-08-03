@@ -10,6 +10,7 @@
 | [0486-predict-the-winner](https://github.com/k-sarvesh/Leetcode/tree/master/0486-predict-the-winner) |
 | [0645-set-mismatch](https://github.com/k-sarvesh/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/k-sarvesh/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1406-stone-game-iii](https://github.com/k-sarvesh/Leetcode/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/k-sarvesh/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/k-sarvesh/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/k-sarvesh/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -51,6 +52,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/k-sarvesh/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0486-predict-the-winner](https://github.com/k-sarvesh/Leetcode/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/k-sarvesh/Leetcode/tree/master/1406-stone-game-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/k-sarvesh/Leetcode/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/k-sarvesh/Leetcode/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -71,4 +74,13 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/k-sarvesh/Leetcode/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/k-sarvesh/Leetcode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/k-sarvesh/Leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/k-sarvesh/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
