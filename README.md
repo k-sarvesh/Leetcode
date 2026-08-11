@@ -19,6 +19,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/k-sarvesh/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/k-sarvesh/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/k-sarvesh/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/k-sarvesh/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/k-sarvesh/Leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -33,6 +34,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/k-sarvesh/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/k-sarvesh/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/k-sarvesh/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/k-sarvesh/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/k-sarvesh/Leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -44,6 +46,7 @@
 | [0645-set-mismatch](https://github.com/k-sarvesh/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/k-sarvesh/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/k-sarvesh/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/k-sarvesh/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/k-sarvesh/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
