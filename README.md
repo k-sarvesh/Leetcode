@@ -21,6 +21,7 @@
 | [1929-concatenation-of-array](https://github.com/k-sarvesh/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/k-sarvesh/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/k-sarvesh/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/k-sarvesh/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/k-sarvesh/Leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/k-sarvesh/Leetcode/tree/master/0645-set-mismatch) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/k-sarvesh/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
 | ------- |
