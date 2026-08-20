@@ -22,6 +22,7 @@
 | [2029-stone-game-ix](https://github.com/k-sarvesh/Leetcode/tree/master/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/k-sarvesh/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/k-sarvesh/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/k-sarvesh/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/k-sarvesh/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/k-sarvesh/Leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -31,6 +32,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/k-sarvesh/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/k-sarvesh/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/k-sarvesh/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/k-sarvesh/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
