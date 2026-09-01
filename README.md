@@ -55,6 +55,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/k-sarvesh/Leetcode/tree/master/0148-sort-list) |
 | [0645-set-mismatch](https://github.com/k-sarvesh/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/k-sarvesh/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/k-sarvesh/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -139,6 +140,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/k-sarvesh/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/k-sarvesh/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/k-sarvesh/Leetcode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/k-sarvesh/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/k-sarvesh/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/k-sarvesh/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -148,6 +150,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/k-sarvesh/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/k-sarvesh/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/k-sarvesh/Leetcode/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/k-sarvesh/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/k-sarvesh/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -163,4 +166,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/k-sarvesh/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/k-sarvesh/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/k-sarvesh/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
