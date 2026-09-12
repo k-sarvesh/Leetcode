@@ -79,6 +79,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/k-sarvesh/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/k-sarvesh/Leetcode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/k-sarvesh/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0486-predict-the-winner](https://github.com/k-sarvesh/Leetcode/tree/master/0486-predict-the-winner) |
@@ -104,6 +105,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/k-sarvesh/Leetcode/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/k-sarvesh/Leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -141,6 +143,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/k-sarvesh/Leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/k-sarvesh/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/k-sarvesh/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/k-sarvesh/Leetcode/tree/master/0148-sort-list) |
