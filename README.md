@@ -82,6 +82,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/k-sarvesh/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/k-sarvesh/Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/k-sarvesh/Leetcode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/k-sarvesh/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0486-predict-the-winner](https://github.com/k-sarvesh/Leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/k-sarvesh/Leetcode/tree/master/1406-stone-game-iii) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/k-sarvesh/Leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/k-sarvesh/Leetcode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/k-sarvesh/Leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
