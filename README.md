@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/k-sarvesh/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/k-sarvesh/Leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/k-sarvesh/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/k-sarvesh/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/k-sarvesh/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/k-sarvesh/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -187,4 +188,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/k-sarvesh/Leetcode/tree/master/0148-sort-list) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/k-sarvesh/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
