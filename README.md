@@ -104,6 +104,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/k-sarvesh/Leetcode/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/k-sarvesh/Leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/k-sarvesh/Leetcode/tree/master/1406-stone-game-iii) |
 ## Recursion
@@ -178,6 +179,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/k-sarvesh/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/k-sarvesh/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/k-sarvesh/Leetcode/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -194,4 +196,12 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/k-sarvesh/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/k-sarvesh/Leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/k-sarvesh/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
