@@ -73,6 +73,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/k-sarvesh/Leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/k-sarvesh/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/k-sarvesh/Leetcode/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/k-sarvesh/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -183,6 +184,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/k-sarvesh/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/k-sarvesh/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/k-sarvesh/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/k-sarvesh/Leetcode/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/k-sarvesh/Leetcode/tree/master/0344-reverse-string) |
 ## Sliding Window
@@ -208,6 +210,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/k-sarvesh/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/k-sarvesh/Leetcode/tree/master/0022-generate-parentheses) |
 ## Memoization
 |  |
